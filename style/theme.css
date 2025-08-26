@@ -1,0 +1,20 @@
+
+:root {
+  --bg: #f5f7fa;
+  --text: #1a1a1a;
+  --muted: #6b7280;
+  --card: #ffffff;
+  --accent: #0b5fff;
+  --heading-color: #EB4511;
+}
+[data-theme="dark"] {
+  --bg: #0f1724;
+  --text: #e6eef8;
+  --muted: #9aa6b2;
+  --card: #0b1220;
+  --accent: #2b8cff;
+  --heading-color: #EB4511;
+}
+h1,h2,h3, .main-header, .stHeader, .stSubheader, .stMarkdown h1, .stMarkdown h2, .stMarkdown h3 {
+  color: var(--heading-color) !important;
+}

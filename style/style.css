@@ -1,0 +1,85 @@
+/* Body & Base */
+body {
+    background-color: #f5f7fa;
+    color: #1a1a1a;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 0;
+}
+
+/* Header */
+.header {
+    background-color: #1f202e;
+    color: white;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header nav a {
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: 500;
+}
+.header nav a:hover {
+    text-decoration: underline;
+}
+
+/* Layout */
+.container {
+    display: flex;
+    padding: 20px;
+}
+
+/* Main Content */
+main {
+    flex: 3;
+    margin-right: 20px;
+}
+.card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* Sidebar */
+.sidebar {
+    flex: 1;
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* Buttons */
+.button {
+    background-color: #F5A623;
+    color: white;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #d68f1a;
+}
+
+/* Positive/Negative */
+.positive {
+    color: #21ba45;
+}
+.negative {
+    color: #db2828;
+}
+
+/* Footer */
+.footer {
+    background-color: #0047AB;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}

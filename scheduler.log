@@ -1,0 +1,30 @@
+2025-08-14 12:18:17,315 - INFO - Scheduled jobs setup completed
+2025-08-14 12:23:38,220 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=3mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-14 12:23:38,564 - ERROR - HTTP Error 404: 
+2025-08-14 12:23:38,895 - ERROR - $ICICI.NS: possibly delisted; no price data found  (period=3mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 04:27:23,060 - INFO - Scheduled jobs setup completed
+2025-08-15 04:44:51,064 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 05:28:19,667 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 05:58:50,318 - INFO - Scheduled jobs setup completed
+2025-08-15 06:02:39,435 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 06:03:42,991 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 06:03:54,951 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 06:17:21,181 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 06:18:30,189 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 06:19:19,852 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 06:19:25,990 - INFO - Scheduled jobs setup completed
+2025-08-15 06:19:56,248 - INFO - Scheduled jobs setup completed
+2025-08-15 06:21:14,456 - INFO - Scheduled jobs setup completed
+2025-08-15 06:25:14,842 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 08:34:43,885 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 08:37:09,445 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 08:49:34,918 - INFO - Scheduled jobs setup completed
+2025-08-15 09:12:09,928 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 09:18:32,523 - INFO - Scheduled jobs setup completed
+2025-08-15 09:20:38,280 - ERROR - $NIFTY.NS: possibly delisted; no price data found  (period=3mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 09:21:17,495 - ERROR - $NIFTY.NS: possibly delisted; no price data found  (period=3mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 09:21:35,885 - ERROR - $NIFTY.NS: possibly delisted; no price data found  (period=3mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 10:37:07,592 - INFO - Scheduled jobs setup completed
+2025-08-15 10:37:45,421 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 10:41:19,132 - ERROR - $TATA MOTORS .NS: possibly delisted; no price data found  (period=3mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-08-15 10:43:18,732 - ERROR - $HDFC.NS: possibly delisted; no price data found  (period=2mo) (Yahoo error = "No data found, symbol may be delisted")
